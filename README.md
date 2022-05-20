@@ -1,1 +1,1 @@
-# Práctico correspondiente a la materia Introducción a los Grafos y las Redes Complejas
+# Assignment of the course Introduction to graphs and complex networks (in spanish)
